@@ -1,3 +1,14 @@
+/**
+*   C iti graduation project by
+* Alaa elnagar
+* Mohamed hassan
+* Mohamed Elsayed
+* Essam abozaid
+* Eslam abotaleb
+*/
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -11,5 +22,3 @@ int main(void)
     while( ModeSelect());
 
 }
-
-
